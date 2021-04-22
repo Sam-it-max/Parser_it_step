@@ -6,7 +6,7 @@ data = [
     (42, " it says, ", 2.0),
     (1337, "is about the most ", -1),
     (0, "massively аваывапывап useful thing ", 123),
-    (-2, "an interstellar hitchрпарпаропhiker can have.", 3),
+    (-2, "an ilar hitchрпарпаропhiker can have.", 3),
 ]
 
 # Write CSV file
